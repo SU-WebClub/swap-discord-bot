@@ -5,7 +5,7 @@ import discord
 load_dotenv(override=True)
 
 client = discord.Client()
-vcn_channel = None
+vcn_channel = 833004981388443678
 is_notification = True
 
 
